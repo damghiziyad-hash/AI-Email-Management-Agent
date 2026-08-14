@@ -1,0 +1,9 @@
+text,true_label,predicted_label
+nouveaux horaires d ouverture a partir du 1er mars nous ouvrons desormais des 6h30 du matin,NORMAL,NORMAL
+3 nouvelles connexions dans votre reseau voyez qui a rejoint votre reseau cette semaine,NORMAL,NORMAL
+reunion strategique demain 9h presence obligatoire tous les chefs d equipe doivent etre presents demain a 9h pour la presentation du plan strategique 2026,IMPORTANT,NORMAL
+document contractuel a signer avant le 15 merci de trouver ci joint le contrat a signer et renvoyer avant le 15 de ce mois,IMPORTANT,NORMAL
+un evenement pourrait vous interesser un nouvel evenement tech a lieu pres de chez vous ce mois ci,NORMAL,NORMAL
+medicaments a 80 livraison discrete achetez vos medicaments sans ordonnance a prix casse livraison rapide et discrete garantie,SPAM,NORMAL
+votre carte cadeau de 500 eur vous attend reclamez votre carte cadeau gratuite maintenant en cliquant sur le lien ci dessous avant expiration,SPAM,NORMAL
+convocation entretien annuel votre entretien annuel est fixe au 20 fevrier a 10h en salle b merci de preparer votre auto evaluation,IMPORTANT,IMPORTANT

@@ -1,0 +1,26 @@
+email_id,true_label,P(NORMAL),P(IMPORTANT),P(SPAM),decision,action,raison
+1,IMPORTANT,0.27,0.53,0.2,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 53%)
+2,IMPORTANT,0.27,0.53,0.2,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 53%)
+3,IMPORTANT,0.36,0.37,0.28,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 37%)
+4,IMPORTANT,0.29,0.48,0.23,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 48%)
+5,IMPORTANT,0.27,0.52,0.21,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 52%)
+6,IMPORTANT,0.31,0.47,0.22,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 47%)
+7,NORMAL,0.63,0.19,0.19,NORMAL,archiver,confiance suffisante (63%)
+8,NORMAL,0.6,0.19,0.21,NORMAL,archiver,confiance suffisante (60%)
+9,NORMAL,0.63,0.18,0.19,NORMAL,archiver,confiance suffisante (63%)
+10,NORMAL,0.41,0.29,0.29,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 41%)
+11,NORMAL,0.41,0.29,0.29,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 41%)
+12,NORMAL,0.61,0.21,0.19,NORMAL,archiver,confiance suffisante (61%)
+13,NORMAL,0.54,0.23,0.23,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 54%)
+14,NORMAL,0.64,0.18,0.18,NORMAL,archiver,confiance suffisante (64%)
+15,NORMAL,0.63,0.19,0.19,NORMAL,archiver,confiance suffisante (63%)
+16,SPAM,0.28,0.22,0.5,INCERTAIN,demander confirmation a l'utilisateur,confiance SPAM insuffisante (50% < 80%) -> on prefere demander confirmation plutot que de risquer un faux positif
+17,SPAM,0.28,0.2,0.52,INCERTAIN,demander confirmation a l'utilisateur,confiance SPAM insuffisante (52% < 80%) -> on prefere demander confirmation plutot que de risquer un faux positif
+18,SPAM,0.39,0.28,0.33,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 39%)
+19,SPAM,0.27,0.21,0.52,INCERTAIN,demander confirmation a l'utilisateur,confiance SPAM insuffisante (52% < 80%) -> on prefere demander confirmation plutot que de risquer un faux positif
+20,SPAM,0.28,0.21,0.51,INCERTAIN,demander confirmation a l'utilisateur,confiance SPAM insuffisante (51% < 80%) -> on prefere demander confirmation plutot que de risquer un faux positif
+21,SPAM,0.41,0.3,0.29,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 41%)
+22,SPAM,0.27,0.21,0.53,INCERTAIN,demander confirmation a l'utilisateur,confiance SPAM insuffisante (53% < 80%) -> on prefere demander confirmation plutot que de risquer un faux positif
+23,NORMAL,0.63,0.19,0.18,NORMAL,archiver,confiance suffisante (63%)
+24,IMPORTANT,0.41,0.29,0.29,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 41%)
+25,IMPORTANT,0.41,0.36,0.23,INCERTAIN,demander confirmation a l'utilisateur,aucune classe assez confiante (max: 41%)

@@ -1,0 +1,26 @@
+email_id,sender,subject_clean,body_clean,text_length,label
+1,recruiter@techcorp.com,offre d entretien poste data scientist,bonjour suite a votre candidature nous souhaitons vous rencontrer jeudi a 14h merci de confirmer votre disponibilite,155,1
+2,manager@company.com,urgent deadline projet ce soir,bonjour je te rappelle que le rapport doit etre envoye avant 18h aujourd hui peux tu confirmer que tu es dans les temps,150,1
+3,rh@monentreprise.com,convocation entretien annuel,votre entretien annuel est fixe au 20 fevrier a 10h en salle b merci de preparer votre auto evaluation,131,1
+4,banque@bnp.fr,alerte operation inhabituelle detectee,une operation de 850 eur a ete detectee sur votre compte si vous n etes pas a l origine de cette operation contactez nous immediatement,174,1
+5,client.important@partenaire.com,renegociation contrat reponse attendue,nous devons finaliser les termes du contrat avant vendredi merci de me donner votre retour des que possible,146,1
+6,professeur.dupont@universite.fr,resultats examen final,vos resultats sont disponibles vous avez obtenu 16 20 felicitations,90,1
+7,newsletter@lemonde.fr,votre resume hebdomadaire de l actualite,decouvrez les articles les plus lus cette semaine sur notre site,105,0
+8,noreply@amazon.fr,votre commande a ete expediee,votre colis 4521 a ete expedie et arrivera sous 2 a 3 jours ouvres,96,0
+9,contact@spotify.com,votre resume musical du mois,voici les artistes que vous avez le plus ecoutes ce mois ci,88,0
+10,notifications@linkedin.com,3 nouvelles connexions dans votre reseau,voyez qui a rejoint votre reseau cette semaine,87,0
+11,info@boulangerie-du-coin.fr,nouveaux horaires d ouverture,a partir du 1er mars nous ouvrons desormais des 6h30 du matin,91,0
+12,newsletter@sport365.com,les resultats du weekend,retrouvez tous les scores et resumes des matchs du weekend,83,0
+13,noreply@meetup.com,un evenement pourrait vous interesser,un nouvel evenement tech a lieu pres de chez vous ce mois ci,98,0
+14,facture@edf.fr,votre facture d electricite est disponible,votre facture du mois de janvier d un montant de 78 50 eur est disponible dans votre espace client,141,0
+15,promo@fnac.com,ventes flash 50 sur une selection,profitez de nos offres exceptionnelles valables jusqu a dimanche minuit,105,0
+16,winner@lottery-intl.com,felicitations vous avez gagne 1 000 000 eur,vous avez ete selectionne au hasard pour recevoir un prix exceptionnel cliquez ici pour reclamer votre gain immediatement,165,2
+17,security@paypa1-verify.com,votre compte a ete suspendu,nous avons detecte une activite suspecte cliquez sur ce lien pour reactiver votre compte sous 24h ou il sera supprime,145,2
+18,pharma@cheap-meds-online.com,medicaments a 80 livraison discrete,achetez vos medicaments sans ordonnance a prix casse livraison rapide et discrete garantie,126,2
+19,investment@crypto-riches.biz,doublez votre argent en 48h garanti,notre systeme d investissement automatique vous garantit un retour de 200 en moins de 48 heures rejoignez des milliers d investisseurs,170,2
+20,prince.abu@overseas-funds.net,demande d assistance confidentielle,je suis un prince en exil et j ai besoin de votre aide pour transferer 5 millions de dollars vous recevrez 20 de la somme,157,2
+21,noreply@free-giftcard-now.com,votre carte cadeau de 500 eur vous attend,reclamez votre carte cadeau gratuite maintenant en cliquant sur le lien ci dessous avant expiration,141,2
+22,support@microsofrt-security.com,alerte virus detecte sur votre ordinateur,notre systeme a detecte 3 virus sur votre appareil telechargez notre logiciel immediatement pour les supprimer,152,2
+23,ami.pierre@gmail.com,on se voit ce weekend,salut ca te dirait de se voir samedi pour un cafe dis moi si ca te va,91,0
+24,directeur@monentreprise.com,reunion strategique demain 9h presence obligatoire,tous les chefs d equipe doivent etre presents demain a 9h pour la presentation du plan strategique 2026,154,1
+25,avocat@cabinet-juridique.fr,document contractuel a signer avant le 15,merci de trouver ci joint le contrat a signer et renvoyer avant le 15 de ce mois,122,1
